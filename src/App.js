@@ -59,16 +59,16 @@ class App extends React.Component {
                <div className="title-container" style={{width:"50%"}}>
                   <Titles/>
                </div>
-               <div className="form-container" style={{width:"%"}}>
-               <Form getWeather={this.getWeather}/>
-               <Weather 
-                  temperature={this.state.temperature}
-                  city={this.state.city}
-                  country={this.state.country}
-                  humidity={this.state.humidity}
-                  description={this.state.description}
-                  error={this.state.error}
-                />
+               <div className="form-container" style={{width:"50%"}}>
+                <Form getWeather={this.getWeather}/>
+                <Weather 
+                    temperature={this.state.temperature}
+                    city={this.state.city}
+                    country={this.state.country}
+                    humidity={this.state.humidity}
+                    description={this.state.description}
+                    error={this.state.error}
+                  />
                </div>
               </div>
             </div>
