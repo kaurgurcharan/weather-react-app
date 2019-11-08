@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f63d7464.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.4310a62b.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.4310a62b.chunk.js.map",
-    "runtime~main.js": "/react-gh-pages/static/js/runtime~main.f344a715.js",
-    "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.f344a715.js.map",
-    "static/css/2.266e55a5.chunk.css": "/react-gh-pages/static/css/2.266e55a5.chunk.css",
-    "static/js/2.db3fef3d.chunk.js": "/react-gh-pages/static/js/2.db3fef3d.chunk.js",
-    "static/js/2.db3fef3d.chunk.js.map": "/react-gh-pages/static/js/2.db3fef3d.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.27d814414ba4e5885be6772ed3abe708.js": "/react-gh-pages/precache-manifest.27d814414ba4e5885be6772ed3abe708.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/react-gh-pages/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.f63d7464.chunk.css.map": "/react-gh-pages/static/css/main.f63d7464.chunk.css.map",
-    "static/media/App.css": "/react-gh-pages/static/media/backGround.61a0f320.gif"
+    "main.css": "/weather-react-app/static/css/main.cd32345a.chunk.css",
+    "main.js": "/weather-react-app/static/js/main.b7337be2.chunk.js",
+    "main.js.map": "/weather-react-app/static/js/main.b7337be2.chunk.js.map",
+    "runtime~main.js": "/weather-react-app/static/js/runtime~main.9401c651.js",
+    "runtime~main.js.map": "/weather-react-app/static/js/runtime~main.9401c651.js.map",
+    "static/css/2.266e55a5.chunk.css": "/weather-react-app/static/css/2.266e55a5.chunk.css",
+    "static/js/2.db3fef3d.chunk.js": "/weather-react-app/static/js/2.db3fef3d.chunk.js",
+    "static/js/2.db3fef3d.chunk.js.map": "/weather-react-app/static/js/2.db3fef3d.chunk.js.map",
+    "index.html": "/weather-react-app/index.html",
+    "precache-manifest.3be935c5c99fe9413d8febea465c76a5.js": "/weather-react-app/precache-manifest.3be935c5c99fe9413d8febea465c76a5.js",
+    "service-worker.js": "/weather-react-app/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/weather-react-app/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.cd32345a.chunk.css.map": "/weather-react-app/static/css/main.cd32345a.chunk.css.map",
+    "static/media/App.css": "/weather-react-app/static/media/backGround.61a0f320.gif"
   }
 }
